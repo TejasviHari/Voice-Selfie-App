@@ -1,0 +1,23 @@
+#logo_img{
+    width:200px;
+    border-radius: 50%;
+}
+
+textarea{
+    width: 300px;
+    background-color:grey ;
+}
+
+#camera{
+    border: brown solid 1px;
+    width: 360px;
+    height: 360px;
+}
+
+#start_btn{
+    width:40%;
+}
+
+body{
+    text-align: center;
+}
